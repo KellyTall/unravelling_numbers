@@ -1,0 +1,6 @@
+film,year,names,values,av_score
+Virgin Suicides,2000,run_time_norm_scale,1.2121212121212122,1.367965367965368
+Virgin Suicides,2000,budget_norm_scale,1.0583333333333333,1.267063492063492
+Virgin Suicides,2000,box_office_norm_scale,1,1.2815068535414698
+Virgin Suicides,2000,rotten_toms_score_norm_scale,1.6052631578947367,1.4699248120300752
+Virgin Suicides,2000,profit_norm_scale,1.0065197282496394,1.1589101280226772

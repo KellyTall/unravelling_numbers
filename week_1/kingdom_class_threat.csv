@@ -1,0 +1,76 @@
+kingdom,class,threatened_status,total,total_status
+Plantae,Magnoliopsida,Critically Endangered,1063,182
+Plantae,Magnoliopsida,Endangered,1063,405
+Plantae,Magnoliopsida,Extinct,1063,20
+Plantae,Magnoliopsida,Vulnerable,1063,456
+Plantae,Liliopsida,Critically Endangered,322,71
+Plantae,Liliopsida,Endangered,322,146
+Plantae,Liliopsida,Extinct,322,7
+Plantae,Liliopsida,Vulnerable,322,98
+Animalia,Aves,Critically Endangered,185,16
+Animalia,Aves,Endangered,185,71
+Animalia,Aves,Extinct,185,22
+Animalia,Aves,Vulnerable,185,76
+Animalia,Mammalia,Critically Endangered,149,9
+Animalia,Mammalia,Endangered,149,46
+Animalia,Mammalia,Extinct,149,39
+Animalia,Mammalia,Vulnerable,149,55
+Animalia,Reptilia,Critically Endangered,88,26
+Animalia,Reptilia,Endangered,88,32
+Animalia,Reptilia,Extinct,88,1
+Animalia,Reptilia,Vulnerable,88,29
+Animalia,Actinopterygii,Conservation Dependent,66,4
+Animalia,Actinopterygii,Critically Endangered,66,23
+Animalia,Actinopterygii,Endangered,66,23
+Animalia,Actinopterygii,Extinct in the wild,66,1
+Animalia,Actinopterygii,Vulnerable,66,15
+Animalia,Amphibia,Critically Endangered,50,18
+Animalia,Amphibia,Endangered,50,11
+Animalia,Amphibia,Extinct,50,4
+Animalia,Amphibia,Vulnerable,50,17
+Animalia,Malacostraca,Critically Endangered,37,13
+Animalia,Malacostraca,Endangered,37,20
+Animalia,Malacostraca,Vulnerable,37,4
+Plantae,Polypodiatae,Critically Endangered,31,3
+Plantae,Polypodiatae,Endangered,31,13
+Plantae,Polypodiatae,Extinct,31,5
+Plantae,Polypodiatae,Vulnerable,31,10
+Animalia,Insecta,Critically Endangered,27,12
+Animalia,Insecta,Endangered,27,10
+Animalia,Insecta,Vulnerable,27,5
+Animalia,Gastropoda,Critically Endangered,21,13
+Animalia,Gastropoda,Endangered,21,8
+Plantae,Cycadatae,Endangered,15,7
+Plantae,Cycadatae,Vulnerable,15,8
+Animalia,Chondrichthyes,Conservation Dependent,14,4
+Animalia,Chondrichthyes,Critically Endangered,14,2
+Animalia,Chondrichthyes,Endangered,14,2
+Animalia,Chondrichthyes,Vulnerable,14,6
+Plantae,Lycopodopiatae,Critically Endangered,10,1
+Plantae,Lycopodopiatae,Endangered,10,3
+Plantae,Lycopodopiatae,Extinct,10,2
+Plantae,Lycopodopiatae,Vulnerable,10,4
+Animalia,Arachnida,Critically Endangered,5,1
+Animalia,Arachnida,Endangered,5,2
+Animalia,Arachnida,Vulnerable,5,2
+Plantae,Pinatae,Critically Endangered,5,2
+Plantae,Pinatae,Endangered,5,2
+Plantae,Pinatae,Vulnerable,5,1
+Animalia,Oligochaeta,Critically Endangered,3,1
+Animalia,Oligochaeta,Extinct,3,1
+Animalia,Oligochaeta,Vulnerable,3,1
+Animalia,Asteroidea,Critically Endangered,2,1
+Animalia,Asteroidea,Vulnerable,2,1
+Animalia,Bivalvia,Critically Endangered,2,1
+Animalia,Bivalvia,Vulnerable,2,1
+Plantae,Psilotatae,Extinct,2,1
+Plantae,Psilotatae,Vulnerable,2,1
+Plantae,Streptophyta (no class),Critically Endangered,2,1
+Plantae,Streptophyta (no class),Endangered,2,1
+Animalia,Anthozoa,Endangered,1,1
+Plantae,Bryopsida,Vulnerable,1,1
+Animalia,Cephalaspidomorphi,Endangered,1,1
+Animalia,Onychophora (no class),Endangered,1,1
+Animalia,Remipedia,Vulnerable,1,1
+Plantae,Rhodophyceae,Extinct,1,1
+Animalia,Sarcopterygii,Vulnerable,1,1
