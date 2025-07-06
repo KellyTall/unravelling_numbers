@@ -4,7 +4,7 @@ remotes::install_github("KellyTall/wesandersoncast")
 
 
 library(wesandersoncast)
-library(tidyverse)
+library(tidyverse)s
 
 
 View(wes_actors)
