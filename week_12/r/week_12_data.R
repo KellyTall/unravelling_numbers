@@ -49,6 +49,7 @@ members_data <- members_table |>
   mutate(party = str_remove(party, "\\[.*?\\]"))
 
 members_gender <- gender(members_data$first_name, method = "ssa") |>
+  rename(gender_test=gender) |>
   group_by(name, gender_test) |>
   summarise() |>
   rename(first_name = name)
@@ -69,18 +70,6 @@ members_data_with_gender <- members_data |>
 
 View(members_data_with_gender)
 
-members_data %>%
-  filter(str_detect(name_raw, "Ali France"))
 
-# data("genderdata")  # Should load the default name–gender mappings
-# head(genderdata)
 
-results <- gender_df(members_data, method = "ssa", name_col = "first_name", years = c(1930, 2012))
-
-members_data %>%
-  select(name_raw) %>%
-  filter(str_detect(name_raw, "France")) %>%
-  pull(name_raw)
-
-# Save as CSV
-write_csv(members_data, "week_12/output/australian_house_members_2025.csv")
+saveRDS(members_data_with_gender, file="week_12/input/members_data_with_gender.rds")
